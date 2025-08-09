@@ -66,6 +66,6 @@ I leverage a modern stack of technologies to build robust and scalable solutions
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team.
 
 <p align="left">
-<a href="PASTE_YOUR_UPWORK_PROFILE_LINK_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork profile" /></a>
+<a href="https://www.upwork.com/freelancers/~01ba9c7979ac7a4141" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork profile" /></a>
 <a href="https://linkedin.com/in/ashutosh-jha-4574b5223" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile" /></a>
 </p>
