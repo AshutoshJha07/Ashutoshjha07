@@ -13,7 +13,7 @@ Here's a glimpse into how I approach problem-solving:
 <details>
 <summary>🏆 <strong>From Messy Data to a Winning Strategy</strong></summary>
 
-I led my team to **1st Place in the Data Quality Assurance Challenge** at the Data Science Summit '23. We tackled a complex dataset from a major insurance company, engineering an automated preprocessing pipeline to systematically handle missing data. The core of our winning solution was a Random Forest Classifier that predicted missing information with **97.11% accuracy**. `[Link to Repo]`
+I led my team to **1st Place in the Data Quality Assurance Challenge** at the Data Science Summit '23. We tackled a complex dataset from a major insurance company, engineering an automated preprocessing pipeline to systematically handle missing data. The core of our winning solution was a Random Forest Classifier that predicted missing information with **97.11% accuracy**. `[]`
 
 </details>
 
@@ -59,16 +59,7 @@ I leverage a modern stack of technologies to build robust and scalable solutions
 
 * **Advanced Topics:** Large Language Models (LLM), Retrieval-Augmented Generation (RAG)
 
----
 
-### 🎭 Beyond the Code
-
-When I'm not working with data, I'm exploring other forms of expression and leadership.
-
-* **Strategic Finance & Leadership:** As Treasurer for a university club, I directed club finances and spearheaded strategic planning for successful campus-wide environmental campaigns.
-* **Creative Communication:** I honed my public speaking and performance skills, securing 1st Runner-up in a university-level dramatics competition.
-
----
 
 ### 📫 Let's Connect
 
