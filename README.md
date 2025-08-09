@@ -1,6 +1,40 @@
-### Hi there, I'm Ashutosh 👋
+### Hi there, I'm Ashutosh Jha 👋
 
-I'm an Aspiring Machine Learning Engineer with a focus on data-driven analysis and building intelligent systems. I specialize in turning complex data into actionable business insights and have a proven track record of delivering professional solutions for clients.
+I am a Data Science Consultant and Machine Learning Engineer specializing in building end-to-end data solutions that drive business value. [cite_start]As a freelance consultant on Upwork, I've generated over $400 USD across multiple data science projects, maintaining a 100% Job Success Score and a perfect 5.0-star rating[cite: 10, 11]. My passion lies in architecting robust data pipelines and deploying intelligent models to solve complex challenges.
+
+---
+
+### 🚀 Key Highlights & Achievements
+
+* [cite_start]🏆 **1st Place Winner, Data Quality Challenge '23:** Designed the winning solution for a major insurance company by developing a Random Forest model with 97.11% accuracy[cite: 19, 22, 23].
+* [cite_start]💼 **Top-Rated Upwork Freelance Consultant:** Maintained a 100% Job Success Score and perfect 5.0-star rating by delivering exceptional data science projects for clients[cite: 10, 11].
+* [cite_start]📈 **Mentorship & Revenue Growth:** As a Subject Matter Expert, I drove a company revenue increase of over 5 Lakh by mentoring 10+ students through the entire data science project lifecycle[cite: 13, 16, 17].
+
+---
+
+### 💻 Featured Projects
+
+* [cite_start]**Lip-Reading Video Classification:** Pioneered an end-to-end video classification pipeline in PyTorch with a custom 3D CNN, achieving 55% accuracy (25x above baseline) on silent video clips[cite: 25, 27, 28]. [cite_start]Optimized GPU memory and training performance using Automatic Mixed Precision (AMP)[cite: 29]. `[Link to Repo]`
+* [cite_start]**Automated Data Insurance Pipeline:** Engineered an automated preprocessing pipeline to systematically impute, scale, and encode data, ensuring robust model performance for a major insurance company[cite: 24]. `[Link to Repo]`
+
+---
+
+### 🔧 Technologies & Skills
+
+* [cite_start]**Languages:** Python, R, SQL [cite: 31]
+* [cite_start]**ML/DL:** Scikit-Learn, Pandas, NumPy, PyTorch, TensorFlow, Keras [cite: 32]
+* [cite_start]**Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI [cite: 33]
+* [cite_start]**Databases & Tools:** MongoDB, AWS, Azure, Git, GitHub, Jupyter Notebooks [cite: 34]
+* [cite_start]**Advanced Topics:** Large Language Models (LLM), Retrieval-Augmented Generation (RAG) [cite: 35]
+
+---
+
+### 📫 Find Me On
+
+<p align="left">
+<a href="PASTE_YOUR_UPWORK_PROFILE_LINK_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork profile" /></a>
+<a href="https://linkedin.com/in/ashutosh-jha-4574b5223" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile" /></a>
+</p>
 
 ---
 
@@ -25,18 +59,3 @@ I'm an Aspiring Machine Learning Engineer with a focus on data-driven analysis a
 
 ---
 
-*Remember to replace `https://www.upwork.com/freelancers/~yourprofile` with your actual Upwork profile link!*
-
-### Step 4: Commit Your Changes
-
-1.  Scroll to the bottom of the page. You will see a "Commit changes" section.
-2.  You can leave the default text ("Update README.md").
-3.  Click the green **"Commit changes"** button.
-
-### Step 5: See the Magic!
-
-Now, go back to your main GitHub profile page by clicking your icon in the top-right and selecting "Your profile" (or by going to `github.com/Ashutoshjha07`).
-
-Your beautifully formatted README will now be displayed right at the top of your profile, above your pinned repositories.
-
-Congratulations! Your GitHub profile is now in the top tier of what recruiters hope to see.
