@@ -13,7 +13,7 @@ Here's a glimpse into how I approach problem-solving:
 <details>
 <summary>🏆 <strong>From Messy Data to a Winning Strategy</strong></summary>
 
-I led my team to **1st Place in the Data Quality Assurance Challenge** at the Data Science Summit '23. We tackled a complex dataset from a major insurance company, engineering an automated preprocessing pipeline to systematically handle missing data. The core of our winning solution was a Random Forest Classifier that predicted missing information with **97.11% accuracy**. `[]`
+I led my team to **1st Place in the Data Quality Assurance Challenge** at the Data Science Summit '23. We tackled a complex dataset from a major insurance company, engineering an automated preprocessing pipeline to systematically handle missing data. The core of our winning solution was a Random Forest Classifier that predicted missing information with **97.11% accuracy**. `[https://github.com/AshutoshJha07/DATA-QUALITY-ASSURANCE-CHALLENGE-FOR-AN-INSURANCE-COMPANY]`
 
 </details>
 
