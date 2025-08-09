@@ -1,61 +1,80 @@
-### Hi there, I'm Ashutosh Jha 👋
+### Hi, I'm Ashutosh Jha 👋
 
-I am a Data Science Consultant and Machine Learning Engineer specializing in building end-to-end data solutions that drive business value. [cite_start]As a freelance consultant on Upwork, I've generated over $400 USD across multiple data science projects, maintaining a 100% Job Success Score and a perfect 5.0-star rating[cite: 10, 11]. My passion lies in architecting robust data pipelines and deploying intelligent models to solve complex challenges.
+I'm a Machine Learning Engineer and Data Science Consultant who thrives on transforming complex data into tangible business solutions. For me, data science isn't just about models and metrics; it's about bridging the gap between technical possibility and real-world impact.
 
----
-
-### 🚀 Key Highlights & Achievements
-
-* [cite_start]🏆 **1st Place Winner, Data Quality Challenge '23:** Designed the winning solution for a major insurance company by developing a Random Forest model with 97.11% accuracy[cite: 19, 22, 23].
-* [cite_start]💼 **Top-Rated Upwork Freelance Consultant:** Maintained a 100% Job Success Score and perfect 5.0-star rating by delivering exceptional data science projects for clients[cite: 10, 11].
-* [cite_start]📈 **Mentorship & Revenue Growth:** As a Subject Matter Expert, I drove a company revenue increase of over 5 Lakh by mentoring 10+ students through the entire data science project lifecycle[cite: 13, 16, 17].
+This philosophy has guided my professional freelance career, where I've delivered numerous data science projects for clients, earning a **Top-Rated badge on Upwork** with a **100% Job Success Score** and a perfect **5.0-star rating**.
 
 ---
 
-### 💻 Featured Projects
+### 🚀 My Work in Action
 
-* [cite_start]**Lip-Reading Video Classification:** Pioneered an end-to-end video classification pipeline in PyTorch with a custom 3D CNN, achieving 55% accuracy (25x above baseline) on silent video clips[cite: 25, 27, 28]. [cite_start]Optimized GPU memory and training performance using Automatic Mixed Precision (AMP)[cite: 29]. `[Link to Repo]`
-* [cite_start]**Automated Data Insurance Pipeline:** Engineered an automated preprocessing pipeline to systematically impute, scale, and encode data, ensuring robust model performance for a major insurance company[cite: 24]. `[Link to Repo]`
+Here's a glimpse into how I approach problem-solving:
+
+<details>
+<summary>🏆 <strong>From Messy Data to a Winning Strategy</strong></summary>
+
+I led my team to **1st Place in the Data Quality Assurance Challenge** at the Data Science Summit '23. We tackled a complex dataset from a major insurance company, engineering an automated preprocessing pipeline to systematically handle missing data. The core of our winning solution was a Random Forest Classifier that predicted missing information with **97.11% accuracy**. `[Link to Repo]`
+
+</details>
+
+<details>
+<summary>🧠 <strong>Pushing the Boundaries of Deep Learning for Lip-Reading</strong></summary>
+
+In a challenging personal project, I pioneered an **end-to-end video classification pipeline in PyTorch** to read lips from silent video clips. By developing a custom 3D CNN and implementing advanced optimization techniques like Automatic Mixed Precision (AMP), the model achieved **55% accuracy—more than 25 times better than a random baseline**. `[Link to Repo]`
+
+</details>
 
 ---
 
-### 🔧 Technologies & Skills
+### 🧰 My Toolkit
 
-* [cite_start]**Languages:** Python, R, SQL [cite: 31]
-* [cite_start]**ML/DL:** Scikit-Learn, Pandas, NumPy, PyTorch, TensorFlow, Keras [cite: 32]
-* [cite_start]**Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI [cite: 33]
-* [cite_start]**Databases & Tools:** MongoDB, AWS, Azure, Git, GitHub, Jupyter Notebooks [cite: 34]
-* [cite_start]**Advanced Topics:** Large Language Models (LLM), Retrieval-Augmented Generation (RAG) [cite: 35]
+I leverage a modern stack of technologies to build robust and scalable solutions.
+
+* **Languages:**
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+* **ML & Data Science:**
+    ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+    ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+* **Data Visualization:**
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+    ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+    ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+* **Databases & Tools:**
+    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+    ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+* **Advanced Topics:** Large Language Models (LLM), Retrieval-Augmented Generation (RAG)
 
 ---
 
-### 📫 Find Me On
+### 🎭 Beyond the Code
+
+When I'm not working with data, I'm exploring other forms of expression and leadership.
+
+* **Strategic Finance & Leadership:** As Treasurer for a university club, I directed club finances and spearheaded strategic planning for successful campus-wide environmental campaigns.
+* **Creative Communication:** I honed my public speaking and performance skills, securing 1st Runner-up in a university-level dramatics competition.
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team.
 
 <p align="left">
 <a href="PASTE_YOUR_UPWORK_PROFILE_LINK_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork profile" /></a>
 <a href="https://linkedin.com/in/ashutosh-jha-4574b5223" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile" /></a>
 </p>
-
----
-
-### 🔧 Technologies & Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 📫 Find Me On
-
-<p align="left">
-<a href="https://www.upwork.com/freelancers/~yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork profile" /></a>
-<a href="https://www.linkedin.com/in/ashutosh-jha-4574b5223/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile" /></a>
-</p>
-
----
-
