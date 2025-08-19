@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0F7BFF&width=550&lines=Hi%2C+I%27m+Ashutosh+Jha+%F0%9F%91%8B;Machine+Learning+Engineer+%26+Consultant;Turning+Data+Into+Business+Impact" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/70807684?v=4" width="110" alt="Ashutosh Jha avatar" style="border-radius:50%;" />
-</p>
+
 
 ---
 
